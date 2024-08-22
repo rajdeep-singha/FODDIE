@@ -8,22 +8,23 @@
 <P>Order Tracking: Allows users to track the status of their orders from preparation to delivery.</P>
 <P>Secure Payment Gateway: Facilitates safe and secure transactions.</P>
 <h3>Technologies Used</h3>
-HTML: Structure of the web pages.
-CSS: Styling and layout for a visually appealing design.
-JavaScript: Interactive features and functionality.
-Getting Started
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/yourusername/foddie.git
-Navigate to the Project Directory:
-bash
-Copy code
-cd foddie
-Open the Index File:
-Simply open index.html in your preferred browser to view the application.
-Contributing
-We welcome contributions to improve Foddie! Feel free to submit issues, fork the repository, and create pull requests.
+<p>HTML: Structure of the web pages.</p>
+<p>CSS: Styling and layout for a visually appealing design.</p>
+<p>JavaScript: Interactive features and functionality.</p>
+<p>Getting Started</p>
+<h4>Clone the Repository:</h4>
+<p>bash</p>
+<p>Copy code </p>
+<p>git clone https://github.com/yourusername/foddie.git</p>
+<p>Navigate to the Project Directory:</p>
+<p>bash</p>
+<p>Copy code</p>
+<p>cd foddie</p>
+<h5>Open the Index File:</h5>
+<p>Simply open index.html in your preferred browser to view the application.</p>
+<p>Contributing</p>
+<p>We welcome contributions to improve Foddie! Feel free to submit issues, fork the repository, and create pull requests.</p>
 
-License
+<strong>License<strong>
+<br>
 This project is licensed under the MIT License.
